@@ -1,0 +1,1 @@
+Esta es el trabajo en conjunto de Sergio y Francisco, cada uno hara ramas, archivos para commit, merges entre las ramas, y al crear archivos y borrarlos esos en concreto podremos archivoborrar_Nombre_Apellido1_Apellido2, y hacer conflictos
